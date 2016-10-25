@@ -30,4 +30,13 @@
 
     </LinearLayout>
 
+    <Button
+        android:text="Set Wallpaper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/wallpaper"
+        android:layout_alignBottom="@+id/footer"
+        android:layout_alignEnd="@+id/footer"
+        android:layout_marginBottom="7dp" />
+
 </RelativeLayout>
